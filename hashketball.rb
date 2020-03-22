@@ -150,5 +150,6 @@ if team_info[:team_name] == input
     end 
   end
 end 
-end
+return output
+
 end
