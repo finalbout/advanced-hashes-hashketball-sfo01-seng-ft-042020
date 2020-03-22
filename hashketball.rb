@@ -145,6 +145,7 @@ if team_info[:team_name] == input
   team_info.each do |key,value|
   if key == :players 
     value.each do |player|
+      binding.pry
       
       end
     end 
