@@ -139,6 +139,9 @@ end
 end 
 
 def player_numbers(input)
-
+output = [] 
+game_hash.each do |team,team_info|
+binding.pryy
+end 
 
 end
