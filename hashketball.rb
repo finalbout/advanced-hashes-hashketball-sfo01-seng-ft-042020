@@ -146,9 +146,6 @@ if team_info[:team_name] == input
   if key == :players 
     value.each do |player|
       output.push(player[:number])
-    end
-      
-      
       end
     end 
   end
